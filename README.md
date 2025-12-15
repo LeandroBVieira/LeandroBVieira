@@ -1,8 +1,6 @@
 # Olá, Bem-vindo Ao meu Repositório Principal
-## Meu Nome é __Leandro Bernardino Vieira__  
-Estou aprendendo sobre **Git** e **GitHub** no **Curso em Vídeo** e no **Senac**  
-Estudando Para ser um Futuro __*Dev. Full Stack*__ ou **Programador**  
-Cursando **Web Programação** no **Senac** de **Araranguá**  
+## Meu Nome é __Leandro Bernardino Vieira__   
+Estudando Para ser um **Programador**    
 Em um Futuro Próximo Haverá Atualizações no meu GitHub  
 Até Outro dia 🤙
 
